@@ -1,0 +1,9 @@
+We have used two database for this thesis ;-
+
+1) Activity recognition with healthy older people using a batteryless wearable sensor Data Set
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/00427/
+
+2)https://archive.ics.uci.edu/ml/machine-learning-databases/00240/
+
+
